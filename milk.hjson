@@ -1,0 +1,6 @@
+name: Milk
+description: A Milk,for your bone
+temperature: 0.9
+viscosity: 0.8
+effect: melting
+color: ffffff
